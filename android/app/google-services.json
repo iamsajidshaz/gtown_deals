@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "854425096627",
+    "project_id": "gtown-deals",
+    "storage_bucket": "gtown-deals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854425096627:android:789fc85e590d89c9c7bbc6",
+        "android_client_info": {
+          "package_name": "com.shaztech.gtown_deals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854425096627-a395ptboa20o73km1gfiq4gdh5u63ad6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shaztech.gtown_deals",
+            "certificate_hash": "99e3118be472b0fac6235671d47e35cba42f8838"
+          }
+        },
+        {
+          "client_id": "854425096627-7adq7q3u3omlb0qlddqid965hog3713f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8YszH1Q0RwamdPFFuZrllJcu530RD2jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854425096627-7adq7q3u3omlb0qlddqid965hog3713f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
